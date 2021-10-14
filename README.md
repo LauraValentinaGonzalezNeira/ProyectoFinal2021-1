@@ -26,3 +26,6 @@ Teniendo ese valor se asignó un rango para cada uno de los casos presentados y 
 
 
 ![Rango](https://github.com/LauraValentinaGonzalezNeira/ProyectoFinal2021-1/blob/main/rango.PNG)
+
+
+*imagen1 tomada de https://omes-va.com/mediapipe-hands-python/*
