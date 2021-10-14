@@ -2,6 +2,8 @@
 * __Edgar Moreno__
 * __Laura Valentina Gonzalez Neira__
 
+El presente proyecto tiene como objetivo determinar si un objeto es soltado por la mano o al contrario se bota intencionalmente para esto se utilizó la librería de mediapipe, en la siguiente imagen se observan los puntos de la mano, los cuales son 21 en total, estos puntos nos ayudaron a obtener las coordenadas de los dedos de interés que se utilizaron más adelante. 
+
 Cuando se ejecute el proyecto que se encuentra en el repositorio se verá una imagen o video, dependiendo del archivo py que seleccione, en la cual se indica si el movimiento que se está realizando es botar o soltar el objeto. 
 ![Movimiento de soltar](https://github.com/LauraValentinaGonzalezNeira/ProyectoFinal2021-1/blob/main/imangenSoltar.PNG)
 
