@@ -11,3 +11,5 @@ Para diferenciar cuál de los dos movimientos se presenta nos basamos en la dist
 
 
 Teniendo ese valor se asignó un rango para cada uno de los casos presentados y finalmente utilizando la librería OpenCV se ubicó el texto de salida que indica que movimiento se está realizando y una línea que muestra entre qué puntos se está tomando la distancia medida. 
+
+![Rango](https://github.com/LauraValentinaGonzalezNeira/ProyectoFinal2021-1/blob/main/rango.PNG)
